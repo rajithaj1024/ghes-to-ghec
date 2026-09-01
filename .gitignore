@@ -1,0 +1,5 @@
+*.log
+*.txt
+*.result
+validation-*.json
+repo_migration_output*.csv
